@@ -9,4 +9,5 @@ sudo cp -ar * /
 
 cp .asoundrc /home/WHATEVER_THE_NAME_OF_YOUR_COMPUTER_IS
 
-Download:
+Download:[64bit_DTS_LINUX_x86_64.tar.gz](https://github.com/toshiba6012/64bit_DTS_LINUX_x86_64/files/8309665/64bit_DTS_LINUX_x86_64.tar.gz)
+
