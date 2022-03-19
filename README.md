@@ -1,7 +1,7 @@
 # 64bit_DTS_LINUX_x86_64
 Exactly the same as 64bit Android DTS but for Linux. Checkout my other repositories. Download is available below. To extract run this command.
 
-tar -h -xvf 64bit_DTS_LINUX_x86_64.tar
+tar -h -xvf 64bit_DTS_LINUX_x86_64.tar.gz
 
 cd 64bit_DTS_LINUX_x86_64
 
