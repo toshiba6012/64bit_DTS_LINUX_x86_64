@@ -5,9 +5,9 @@ tar -h -xvf LINUX64bit_DTS_x86_64.tar.gz
 
 cd LINUX64bit_DTS_x86_64
 
-sudo cp -ar usr /
+sudo cp -r usr /
 
-sudo cp -ar lib /usr/local
+sudo cp -r lib /usr/local
 
 cp .asoundrc /home/WHATEVER_THE_NAME_OF_YOUR_COMPUTER_IS
 
