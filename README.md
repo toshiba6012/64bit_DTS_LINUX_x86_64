@@ -5,7 +5,7 @@ tar -h -xvf LINUX64bit_DTS_x86_64.tar.gz
 
 cd LINUX64bit_DTS_x86_64
 
-sudo cp -ar etc /
+sudo cp -ar usr /
 
 sudo cp -ar lib /usr/local
 
